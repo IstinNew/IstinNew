@@ -1,6 +1,6 @@
 ## About me
 
-**IstinNew/IstinNew** is a ✨ _one-of-kind_ ✨ repository repository marking the start of my exciting journey in the world of coding and innovation. 🚀 Follow me to join this adventure and stay updated with all the latest developments!
+**IstinNew/IstinNew** is a ✨ _one-of-kind_ ✨ repository marking the start of my exciting journey in the world of coding and innovation. 🚀 Follow me to join this adventure and stay updated with all the latest developments!
 
 
 
