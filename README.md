@@ -12,5 +12,5 @@
 - 📫 How to reach me: ...https://linktr.ee/likelyix
 - 😄 Pronouns: ...They/Them
 - ⚡ Fun fact: ...It's worth **taking a challenge**, to find patterns in data and can spend hours **exploring** datasets!
-- 🗣  Interactions with me in: ... **6** Indian languages (Hindi,Marathi,Bengali,Gujarati,Rajasthani,Punjabi), **1** Sub-continent (Urdu), **2** International languages (English, German)
+- 🗣  Interact with me in: ... **6** Indian languages (Hindi,Marathi,Bengali,Gujarati,Rajasthani,Punjabi), **1** Sub-continent (Urdu), **2** International languages (English, German)
 
