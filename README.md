@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ...**exciting open-source projects** that aim to make coding more accessible and fun for everyone.
 - 🌱 I’m currently learning ...**GitHub**, the **basics of Python (PyCharm + DataSpell)**, and aim to dive into **machine learning.**
-- 👯 I’m looking to collaborate on ...**innovative projects** using tools like **Microsoft Fabric (Power BI)** that can that can solve real-world problems and improve business outcomes.
+- 👯 I’m looking to collaborate on ...**innovative projects** using tools like **Microsoft Fabric (Power BI), Tableau** that can that can solve real-world problems and improve business outcomes.
 - 🤔 I’m looking for help with ...**big data processing** and **deploying machine learning models.**
 - 💬 Ask me about ...**data visualization**, statistical analysis, and Python for data analytics.
 - 📫 How to reach me: ...https://linktr.ee/likelyix
