@@ -56,8 +56,10 @@
 
 ---
 ### 📈 GitHub Stats
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IstinNew&show_icons=true&theme=radical" alt="IstinNew's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstinNew&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+</div>
 
 ---
 ### 💪 Skills and Experience
