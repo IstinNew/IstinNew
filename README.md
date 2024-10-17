@@ -21,7 +21,7 @@
 ### 🌱 I’m Currently Learning
 - **GitHub**
 - Basics of **Python (PyCharm + DataSpell)**
-- Diving into machine learning
+- Diving into **machine learning**
 
 ### 🤝 I’m Looking to Collaborate On
 - Innovative projects using **Microsoft Fabric (Power BI)** and **Tableau** to solve real-world problems and improve business outcomes.
