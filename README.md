@@ -24,9 +24,9 @@
 - **Multilingual communication**: Fluent in 6 Indian languages, 1 sub-continental language, and 2 international languages.
 
 ### 🌱 I’m Currently Learning
-- **GitHub**
-- Basics of **Python (PyCharm + DataSpell)**
-- Diving into **machine learning**
+- Making strides with **GitHub**
+- Exploring the depths of **Python (PyCharm + DataSpell)**
+- Embarking on the journey into **machine learning**
 
 ### 🤝 I’m Looking to Collaborate On
 - Innovative projects using **Microsoft Fabric (Power BI)** and **Tableau** to solve real-world problems and improve business outcomes.
