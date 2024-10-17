@@ -19,12 +19,12 @@
 - **Multilingual communication**: Fluent in 6 Indian languages, 1 sub-continental language, and 2 international languages.
 
 ### 🌱 I’m Currently Learning
-- GitHub
-- Basics of Python (PyCharm + DataSpell)
+- **GitHub**
+- Basics of **Python (PyCharm + DataSpell)**
 - Diving into machine learning
 
 ### 🤝 I’m Looking to Collaborate On
-- Innovative projects using Microsoft Fabric (Power BI) and Tableau to solve real-world problems and improve business outcomes.
+- Innovative projects using **Microsoft Fabric (Power BI)** and **Tableau** to solve real-world problems and improve business outcomes.
 
 ### 💡 I’m Looking for Help With
 - Big data processing
@@ -45,9 +45,9 @@
 - I love taking on challenges to find patterns in data and can spend hours exploring datasets!
 
 ### 🌍 Interact with Me In
-- 6 Indian languages (Hindi, Marathi, Bengali, Gujarati, Rajasthani, Punjabi)
-- 1 Sub-continental language (Urdu)
-- 2 International languages (English, German)
+- 6 Indian languages **(Hindi, Marathi, Bengali, Gujarati, Rajasthani, Punjabi)**
+- 1 Sub-continental language **(Urdu)**
+- 2 International languages **(English, German)**
 
 ---
 ### 📈 GitHub Stats
