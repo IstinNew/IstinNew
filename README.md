@@ -8,6 +8,7 @@
 ### 💪 Skills and Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-34A853?style=for-the-badge&logo=arcgis&logoColor=white)
@@ -58,13 +59,14 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=IstinNew&show_icons=true&theme=radical" alt="IstinNew's GitHub stats" style="width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstinNew&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstinNew&layout=compact&theme=radical&hide=html,css" alt="Top Languages" style="width: 50%;">
 </div>
 
 ---
 ### 💪 Skills and Experience
 - **Power BI**: Creating dynamic reports and dashboards.
 - **Tableau**: Crafting insightful visualizations and dashboards.
+- - **Google Colab (Jupyter Notebooks)**: Interactive data analysis and visualization.
 - **C++**: Gaining experience in developing applications.
 - **ArcGIS**: Spatial analysis and mapping solutions.
 - **SQL**: Querying and managing databases.
