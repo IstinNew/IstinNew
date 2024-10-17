@@ -12,6 +12,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-34A853?style=for-the-badge&logo=arcgis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Project Management (Agile)](https://img.shields.io/badge/Project_Management_(Agile)-FF4500?style=for-the-badge&logo=agile&logoColor=white)
 
 ### 🚀 Accomplishments
 - **Learning data visualization and statistical analysis**: Currently focusing on Python for data analytics.
@@ -64,6 +66,8 @@
 - **C++**: Gaining experience in developing applications.
 - **ArcGIS**: Spatial analysis and mapping solutions.
 - **SQL**: Querying and managing databases.
+- **AI**: Implementing artificial intelligence solutions.
+- **Project Management (Agile)**: Managing projects with agile methodologies.
 - **Data Visualization**: Using tools like Tableau.
 - **Statistical Analysis**: Applying statistical methods to real-world problems.
 ---
