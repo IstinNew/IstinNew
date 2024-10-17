@@ -66,7 +66,7 @@
 ### 💪 Skills and Experience
 - **Power BI**: Creating dynamic reports and dashboards.
 - **Tableau**: Crafting insightful visualizations and dashboards.
-- - **Google Colab (Jupyter Notebooks)**: Interactive data analysis and visualization.
+- **Google Colab (Jupyter Notebooks)**: Interactive data analysis and visualization.
 - **C++**: Gaining experience in developing applications.
 - **ArcGIS**: Spatial analysis and mapping solutions.
 - **SQL**: Querying and managing databases.
