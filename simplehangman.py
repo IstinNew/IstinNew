@@ -39,7 +39,7 @@ Bingo! The letter P is in the word! 🎉
 
 ...
 
-Hooray! You've cracked it: INNOVATION 🎊
+Hooray! You've cracked it: PYTHONIC 🎊
 """
 
 # Simple Hangman Game in Python
