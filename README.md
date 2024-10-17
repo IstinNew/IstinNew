@@ -14,6 +14,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Project Management (Agile)](https://img.shields.io/badge/Project_Management_(Agile)-FF4500?style=for-the-badge&logo=agile&logoColor=white)
+![PHREEQC](https://img.shields.io/badge/PHREEQC-008080?style=for-the-badge&logo=hydrogeology&logoColor=white)
+![OriginPro](https://img.shields.io/badge/OriginPro-5A5A5A?style=for-the-badge&logo=originlab&logoColor=white)
 
 ### 🚀 Accomplishments
 - **Learning data visualization and statistical analysis**: Currently focusing on Python for data analytics.
