@@ -1,9 +1,7 @@
 # IstinNew/IstinNew
 
 <div style="display: flex; align-items: center;">
-  <img src="https://path-to-your-image" alt="Your Avatar" style="width: 150px; border-radius: 50%; margin-right: 20px;">
-  <div>
-    Welcome to my ✨ one-of-a-kind ✨ repository marking the start of my exciting journey in the world of coding and innovation. Follow me to join this adventure and stay updated with all the latest developments!
+  <div style="flex: 1;">Follow me to join this adventure and stay updated with all the latest developments!
   </div>
 </div>
 
