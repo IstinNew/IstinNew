@@ -23,7 +23,7 @@
 - **Exploring open-source projects**: Aiming to contribute and learn from the community.
 - **Multilingual communication**: Fluent in 6 Indian languages, 1 sub-continental language, and 2 international languages.
 
-### 🌱 I’m Currently Learning
+### 🌱 I’m Currently
 - Making strides with **GitHub**
 - Exploring the depths of **Python (PyCharm + DataSpell)**
 - Embarking on the journey into **machine learning**
