@@ -22,7 +22,7 @@
 - **📊 Learning data visualization and statistical analysis**: Currently focusing on Python for data analytics.
 - **🌍 Exploring open-source projects**: Aiming to contribute and learn from the community.
 - **🗣️ Multilingual communication**: Fluent in 6 Indian languages, 1 sub-continental language, and 2 international languages.
-- **🏛️ When I am off-work, find me at Terra Mineralia, Freiberg**: Proudly showcasing over 3,000 handpicked minerals from a collection of 80,000 📚, engaging with guests in multiple languages 🌐.
+- **🏛️ When I am off-work, find me at Terra Mineralia, Freiberg**: Proudly showcasing from over 3,000 handpicked minerals from a collection of 80,000 📚, engaging with guests in multiple languages 🌐.
 
 ### 🌱 I’m Currently
 - Making strides with **GitHub**
