@@ -69,8 +69,7 @@ def get_custom_word(difficulty):
 
     # Debug line for the programmer
     # print(f"Debug: Chosen word is '{chosen_word}'")  # Un-hash this if you wish to see the chosen word
-    #
-    return chosen_word # Un-hash this if you wish to see the chosen word
+    # return chosen_word # Un-hash this if you wish to see the chosen word
 
 # Function to display hangman stages
 def display_hangman(tries):
