@@ -1,5 +1,4 @@
-# IstinNew/IstinNew
-
+# IstinNew/IstinNew 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">Follow me to join this adventure and stay updated with all the latest developments!
   </div>
@@ -17,6 +16,7 @@
 ![Project Management (Agile)](https://img.shields.io/badge/Project_Management_(Agile)-FF4500?style=for-the-badge&logo=agile&logoColor=white)
 ![PHREEQC](https://img.shields.io/badge/PHREEQC-008080?style=for-the-badge&logo=hydrogeology&logoColor=white)
 ![OriginPro](https://img.shields.io/badge/OriginPro-5A5A5A?style=for-the-badge&logo=originlab&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=IstinNew&color=brightgreen)
 
 ### 🚀 Accomplishments
 - **📊 Learning data visualization and statistical analysis**: Currently focusing on Python for data analytics.
