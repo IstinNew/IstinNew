@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-34A853?style=for-the-badge&logo=arcgis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Project Management (Agile)](https://img.shields.io/badge/Project_Management_(Agile)-FF4500?style=for-the-badge&logo=agile&logoColor=white)
 ![PHREEQC](https://img.shields.io/badge/PHREEQC-008080?style=for-the-badge&logo=hydrogeology&logoColor=white)
@@ -66,6 +67,7 @@
 
 ---
 ### 💪 Skills and Experience
+- **Visual Studio Code**: As my go-to code editor, VS Code helps to streamline debugging, collaborating with teammates, or exploring new technologies.
 - **Power BI**: Creating dynamic reports and dashboards.
 - **Tableau**: Crafting insightful visualizations and dashboards.
 - **Google Colab (Jupyter Notebooks)**: Interactive data analysis and visualization.
