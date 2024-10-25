@@ -28,7 +28,7 @@
 - **🏛️ When I am off-work, find me at Terra Mineralia, Freiberg**: Proudly showcasing from over 3,000 handpicked minerals out of a collection of 80,000 📚, engaging with guests in multiple languages 🌐.
 
 ### 🌱 I’m Currently
-- Making strides with **GitHub**
+- Making strides with **GitHub,VS Code**
 - Exploring the depths of **Python (PyCharm + DataSpell)**
 - Embarking on the journey into **machine learning**
 
