@@ -19,7 +19,7 @@
 ![OriginPro](https://img.shields.io/badge/OriginPro-5A5A5A?style=for-the-badge&logo=originlab&logoColor=white)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=IstinNew&color=brightgreen)  ![Build Status](https://github.com/IstinNew/IstinNew/actions/workflows/ci.yml/badge.svg)
+![Profile views](https://komarev.com/ghpvc/?username=IstinNew&color=brightgreen)
 
 ### 🚀 Accomplishments
 - **📊 Learning data visualization and statistical analysis**: Currently focusing on Python for data analytics.
