@@ -70,14 +70,17 @@
 ---
 ### 💪 Skills and Experience
 - **Visual Studio Code**: As my go-to code editor, VS Code helps to streamline debugging, collaborating with teammates, or exploring new technologies.
-- **Power BI**: Creating dynamic reports and dashboards.
-- **Tableau**: Crafting insightful visualizations and dashboards.
 - **Google Colab (Jupyter Notebooks)**: Interactive data analysis and visualization.
+- **BigQuery**: Efficiently querying and managing large datasets.
+- **SQL**: Querying and managing databases.
 - **C++**: Gaining experience in developing applications.
 - **ArcGIS**: Spatial analysis and mapping solutions.
-- **SQL**: Querying and managing databases.
+
+- **Power BI**: Creating dynamic reports and dashboards.
+- **Tableau**: Crafting insightful visualizations and dashboards.
+- **Looker Studio**: Creating dynamic and interactive data visualizations.
+
 - **AI**: Implementing artificial intelligence solutions.
 - **Project Management (Agile)**: Managing projects with agile methodologies.
-- **Data Visualization**: Using tools like Tableau.
-- **Statistical Analysis**: Applying statistical methods to real-world problems.
+
 ---
